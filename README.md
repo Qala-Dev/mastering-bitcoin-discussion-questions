@@ -1,5 +1,7 @@
 # Mastering Bitcoin Discussion Questions
 
+These questions are based on the Mastering Bitcoin Book, 2nd edition (2017) ([repo](https://github.com/bitcoinbook/bitcoinbook), various PDFs can be found on GitHub). It's a little outdated, but it's a great resource. Enjoy!
+
 ## Chapter 1
 
 Why doesn't bitcoin have a hierarchical network?
